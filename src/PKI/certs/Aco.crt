@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 17 (0x11)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=CA_Tijelo, O=ETF_BL, OU=ETF, L=BL, ST=RS, C=BA
+        Validity
+            Not Before: Mar  9 15:44:16 2023 GMT
+            Not After : Sep  5 15:44:16 2023 GMT
+        Subject: CN=Aco, C=BA, ST=RS, O=ETF_BL, OU=ETF
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ba:e5:34:89:22:18:2f:d9:55:5c:ec:d7:08:2a:
+                    cb:9c:a5:97:d7:28:1f:d4:c4:6a:fa:e2:e3:c6:97:
+                    68:0b:66:ee:0f:a7:5e:ad:d0:8e:6b:97:f0:fb:92:
+                    80:b6:52:58:46:ba:fe:67:8a:fd:87:9d:7b:22:87:
+                    ba:32:fc:a7:16:5b:47:04:fb:a7:bc:88:5a:a3:59:
+                    16:10:04:33:45:37:79:47:d5:f0:cc:23:73:b9:22:
+                    93:f2:e5:9e:d0:ea:3f:b2:22:19:22:31:0d:79:eb:
+                    84:f4:f6:2c:56:e0:cd:e8:4f:7d:01:ea:c4:a9:4e:
+                    fe:7c:b6:87:7d:a5:94:4f:c0:19:08:cd:0c:45:4b:
+                    13:31:8f:e3:c0:38:40:de:34:f7:cb:a8:7e:0b:ea:
+                    00:80:e9:3e:8f:c3:c1:7d:be:56:bd:f7:ff:3a:80:
+                    fc:c3:70:9f:18:46:02:83:e9:5c:42:13:8d:b4:db:
+                    e9:d6:b5:68:c2:6c:1b:10:e8:9e:17:99:5e:45:92:
+                    da:60:f0:35:27:19:9b:e3:7c:f4:4b:58:c2:e6:89:
+                    8d:c2:4c:ba:89:75:0e:f0:b9:6b:82:6f:12:c5:f8:
+                    1d:5b:36:67:63:82:2c:16:c1:93:90:fb:0f:4f:e0:
+                    af:ba:a4:1f:8e:c8:30:27:f1:9d:f1:dd:ff:05:3a:
+                    62:61
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment, Certificate Sign, Encipher Only, Decipher Only
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                85:B1:4A:73:E6:9F:7E:94:7D:25:60:B3:63:04:2D:5D:F6:68:C6:89
+            X509v3 Authority Key Identifier: 
+                keyid:38:35:E8:41:B5:83:AE:E7:1B:2B:C8:68:D3:E9:5E:A8:1A:85:65:CF
+
+    Signature Algorithm: sha1WithRSAEncryption
+         6f:6c:70:70:79:40:ca:06:90:3e:3f:84:9e:37:b9:07:08:59:
+         9d:6d:5b:dd:9e:a3:95:05:c4:ca:a5:86:45:ba:9a:da:78:aa:
+         4b:bc:0b:7c:37:f5:40:66:9a:d9:a8:90:61:cf:61:ef:fb:22:
+         f8:10:e6:41:f0:b2:e6:6e:07:50:31:77:66:32:7b:f5:57:a8:
+         75:4e:a7:f9:61:16:8e:cf:52:7c:3d:b0:2f:b0:1a:67:8e:a7:
+         1e:d0:71:88:c3:39:8d:02:62:5d:98:2c:be:b0:1c:b4:2c:29:
+         6a:f4:df:f5:2c:29:fe:b8:86:56:83:92:40:f7:e8:2a:9d:7c:
+         df:84
+-----BEGIN CERTIFICATE-----
+MIIDJjCCAo+gAwIBAgIBETANBgkqhkiG9w0BAQUFADBaMRIwEAYDVQQDFAlDQV9U
+aWplbG8xDzANBgNVBAoUBkVURl9CTDEMMAoGA1UECxMDRVRGMQswCQYDVQQHEwJC
+TDELMAkGA1UECBMCUlMxCzAJBgNVBAYTAkJBMB4XDTIzMDMwOTE1NDQxNloXDTIz
+MDkwNTE1NDQxNlowRzEMMAoGA1UEAxMDQWNvMQswCQYDVQQGEwJCQTELMAkGA1UE
+CBMCUlMxDzANBgNVBAoUBkVURl9CTDEMMAoGA1UECxMDRVRGMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuuU0iSIYL9lVXOzXCCrLnKWX1ygf1MRq+uLj
+xpdoC2buD6derdCOa5fw+5KAtlJYRrr+Z4r9h517Ioe6MvynFltHBPunvIhao1kW
+EAQzRTd5R9XwzCNzuSKT8uWe0Oo/siIZIjENeeuE9PYsVuDN6E99AerEqU7+fLaH
+faWUT8AZCM0MRUsTMY/jwDhA3jT3y6h+C+oAgOk+j8PBfb5Wvff/OoD8w3CfGEYC
+g+lcQhONtNvp1rVowmwbEOieF5leRZLaYPA1Jxmb43z0S1jC5omNwky6iXUO8Llr
+gm8SxfgdWzZnY4IsFsGTkPsPT+CvuqQfjsgwJ/Gd8d3/BTpiYQIDAQABo4GKMIGH
+MAkGA1UdEwQCMAAwDAYDVR0PBAUDAwf1gDAsBglghkgBhvhCAQ0EHxYdT3BlblNT
+TCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFIWxSnPmn36UfSVgs2ME
+LV32aMaJMB8GA1UdIwQYMBaAFDg16EG1g67nGyvIaNPpXqgahWXPMA0GCSqGSIb3
+DQEBBQUAA4GBAG9scHB5QMoGkD4/hJ43uQcIWZ1tW92eo5UFxMqlhkW6mtp4qku8
+C3w39UBmmtmokGHPYe/7IvgQ5kHwsuZuB1Axd2Yye/VXqHVOp/lhFo7PUnw9sC+w
+GmeOpx7QcYjDOY0CYl2YLL6wHLQsKWr03/UsKf64hlaDkkD36CqdfN+E
+-----END CERTIFICATE-----
